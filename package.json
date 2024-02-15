@@ -26,7 +26,7 @@
     ]
   },
   "dependencies": {
-    "@cometchat-pro/chat": "3.0.11",
+    "@cometchat-pro/chat": "3.0.13",
     "@reduxjs/toolkit": "1.9.3",
     "ethers": "^5.4.7",
     "next": "13.1.2",
